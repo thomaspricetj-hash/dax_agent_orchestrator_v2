@@ -2,7 +2,7 @@ README — DAX Agent Orchestrator (Version 2)
 MAX‑TIER Cognitive Execution Engine — Proprietary Edition
 ⚠️ LEGAL NOTICE — READ BEFORE USE
 This software, its architecture, its design, its algorithms, its execution model, and all derivative components are 100% proprietary intellectual property of Thomas Price.
-
+please read license.md
 YOU ARE NOT PERMITTED TO:
 Copy
 

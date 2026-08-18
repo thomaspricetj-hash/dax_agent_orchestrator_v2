@@ -240,7 +240,7 @@ Deterministic output
 License & Usage Restrictions
 This software is NOT open source.
 This software is NOT free.
-This software is NOT licensed for testing.
+
 This software is NOT licensed for evaluation.
 This software is NOT licensed for modification.
 This software is NOT licensed for redistribution.
@@ -273,7 +273,7 @@ No part of this system may be used under:
 
 “Educational use”
 
-“Internal testing”
+
 
 “Non‑commercial use”
 

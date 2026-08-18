@@ -18,12 +18,6 @@ Publish
 
 Integrate
 
-Benchmark
-
-Test
-
-Evaluate
-
 Reverse engineer
 
 Analyze
